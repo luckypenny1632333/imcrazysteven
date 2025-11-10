@@ -3,10 +3,10 @@ export const personalData = {
   profile: '/profile.jpg',
   designation: "Software Developer",
   description: "Senior Software Engineer with 8+ years of experience in designing, developing and deploying high-impact full stack web & mobile applications, blockchain decentralized applications and AI-powered SaaS platform.",
-  email: 'steven213.dev@gmail.com',
+  email: 'imcrazysteven143@gmail.com',
   phone: '+14706212757',
   address: 'Wan Chai, HongKong',
-  github: 'https://github.com/luckypenny1632333',
+  github: 'https://github.com/imcrazysteven',
   facebook: 'https://www.facebook.com/profile.php?id=61574938480257',
   // linktree: "https://linktr.ee/imcrazysteven",
   linkedIn: "https://www.linkedin.com/in/steven-lea-36a720385/",
@@ -16,5 +16,5 @@ export const personalData = {
   stackOverflow: 'https://stackoverflow.com/users/28203313/steven',
   // leetcode: "https://leetcode.com/stevenpiao.dev/",
   devUsername: "imcrazysteven",
-  resume: "https://drive.google.com/file/d/14751aYdAMEgsmR21aVko3AqUs-VG9ois/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1AufhpBn8M-_OZ19NF_6z2pA4WTQquHAM/view?usp=sharing"
 }
