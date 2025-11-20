@@ -13,7 +13,7 @@ export const personalData = {
   twitter: 'https://x.com/imcrazysteven',
   instagram: "https://www.instagram.com/imcrazysteven/",
   telegram: "https://t.me/imcrazysteven",
-  stackOverflow: 'https://stackoverflow.com/users/28203313/steven',
+  stackOverflow: 'https://stackoverflow.com/users/28367818/imcrazysteven',
   // leetcode: "https://leetcode.com/stevenpiao.dev/",
   devUsername: "imcrazysteven",
   resume: "https://drive.google.com/file/d/1AufhpBn8M-_OZ19NF_6z2pA4WTQquHAM/view?usp=sharing"

@@ -7,6 +7,6 @@ export const contactsData = {
     linkedIn: "https://www.linkedin.com/in/steven-lea-36a720385/",
     twitter: 'https://x.com/imcrazysteven',
     instagram: "https://www.instagram.com/imcrazysteven/",
-    stackOverflow: 'https://stackoverflow.com/users/28367818/steven',
+    stackOverflow: 'https://stackoverflow.com/users/28367818/imcrazysteven',
     devUsername: "imcrazysteven",
 }
